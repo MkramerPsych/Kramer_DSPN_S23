@@ -8,6 +8,6 @@
 
 | Homework Assignment | Link |
 | ------------------- | ---- |
-| 1: Hello World!     |      |
+| 1: Hello World!     | [here](Homework1_HelloWorld.ipynb) |
 
 
