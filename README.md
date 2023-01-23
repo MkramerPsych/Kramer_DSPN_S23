@@ -1,6 +1,5 @@
 # Data Science for Psychology and Neuroscience
-## Spring 2023, Carnegie Mellon University
-## Max Kramer
+## Spring 2023, Carnegie Mellon University - Max Kramer
 
 **This repository contains all assignments for DSPN 2023.**
 
