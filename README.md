@@ -9,5 +9,6 @@
 | ------------------- | ---- |
 | 1: Hello World!     | [here](Homework1_HelloWorld.ipynb) |
 | 2: Coding Habits and Functions | [here](Exercise2.ipynb) |
+| 3: Data Objects | [here](Exercise3.ipynb) |
 
 
