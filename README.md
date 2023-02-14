@@ -11,6 +11,6 @@
 | 2: Coding Habits and Functions | [here](Exercise2.ipynb) |
 | 3: Data Objects | [here](Exercise3.ipynb) |
 | 4: Data tables and manipulation | [here](Exercise4.ipynb) |
-
+| 5: Using ggplot | [here](Exercise5.ipynb) |
 
 
