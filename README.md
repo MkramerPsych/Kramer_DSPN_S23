@@ -12,6 +12,7 @@
 | 3: Data Objects | [here](Exercise3.ipynb) |
 | 4: Data tables and manipulation | [here](Exercise4.ipynb) |
 | 5: Using ggplot | [here](Exercise5.ipynb) |
-|6: More plotting options | [here](Exercise6.ipynb) |
+| 6: More plotting options | [here](Exercise6.ipynb) |
+| 7: Linear Models | [here](Exercise7.ipynb) |
 
 
