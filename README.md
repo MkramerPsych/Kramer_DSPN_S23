@@ -7,12 +7,13 @@
 
 | Homework Assignment | Link |
 | ------------------- | ---- |
-| 1: Hello World!     | [here](Homework1_HelloWorld.ipynb) |
-| 2: Coding Habits and Functions | [here](Exercise2.ipynb) |
-| 3: Data Objects | [here](Exercise3.ipynb) |
+| 1: Hello world!     | [here](Homework1_HelloWorld.ipynb) |
+| 2: Coding habits and functions | [here](Exercise2.ipynb) |
+| 3: Data objects | [here](Exercise3.ipynb) |
 | 4: Data tables and manipulation | [here](Exercise4.ipynb) |
 | 5: Using ggplot | [here](Exercise5.ipynb) |
 | 6: More plotting options | [here](Exercise6.ipynb) |
-| 7: Linear Models | [here](Exercise7.ipynb) |
+| 7: Linear models | [here](Exercise7.ipynb) |
+| 8: Linear models, continued | [here](Exercise8.ipynb) |
 
 
