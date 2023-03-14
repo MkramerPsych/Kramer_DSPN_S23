@@ -15,5 +15,4 @@
 | 6: More plotting options | [here](Exercise6.ipynb) |
 | 7: Linear models | [here](Exercise7.ipynb) |
 | 8: Linear models, continued | [here](Exercise8.ipynb) |
-
-
+| 9: Mixed effects models | [here](Exercise9.ipynb) |
