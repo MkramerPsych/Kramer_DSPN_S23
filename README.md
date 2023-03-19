@@ -16,3 +16,5 @@
 | 7: Linear models | [here](Exercise7.ipynb) |
 | 8: Linear models, continued | [here](Exercise8.ipynb) |
 | 9: Mixed effects models | [here](Exercise9.ipynb) |
+| 10: Classification | [here](Exercise10.ipynb) |
+
