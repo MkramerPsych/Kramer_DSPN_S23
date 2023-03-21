@@ -17,4 +17,5 @@
 | 8: Linear models, continued | [here](Exercise8.ipynb) |
 | 9: Mixed effects models | [here](Exercise9.ipynb) |
 | 10: Classification | [here](Exercise10.ipynb) |
+| 11: KNN | [here](Exercise11.ipynb) |
 
