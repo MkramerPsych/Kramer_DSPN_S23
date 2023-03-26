@@ -18,4 +18,6 @@
 | 9: Mixed effects models | [here](Exercise9.ipynb) |
 | 10: Classification | [here](Exercise10.ipynb) |
 | 11: KNN | [here](Exercise11.ipynb) |
+| 12: Cross Validation | [here](Exercise12.ipynb) |
+| 12: Resampling Methods | [here](Exercise13.ipynb) |
 
