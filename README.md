@@ -20,4 +20,5 @@
 | 11: KNN | [here](Exercise11.ipynb) |
 | 12: Cross Validation | [here](Exercise12.ipynb) |
 | 13: Resampling Methods | [here](Exercise13.ipynb) |
-
+| 14: Mediation | [here](Exercise14.ipynb) |
+| 15: Power Analyses | [here](Exercise15.ipynb) |
