@@ -23,3 +23,4 @@
 | 14: Mediation | [here](Exercise14.ipynb) |
 | 15: Power Analyses | [here](Exercise15.ipynb) |
 | 16: Model Selection | [here](Exercise16.ipynb) |
+| 17: Regularized Regression | [here](Exercise17.ipynb) |
