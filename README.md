@@ -24,3 +24,4 @@
 | 15: Power Analyses | [here](Exercise15.ipynb) |
 | 16: Model Selection | [here](Exercise16.ipynb) |
 | 17: Regularized Regression | [here](Exercise17.ipynb) |
+| 18: Principal Component Methods | [here](Exercise18.ipynb) |
