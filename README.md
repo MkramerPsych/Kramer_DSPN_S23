@@ -5,6 +5,8 @@
 
 *Thanks to Prof. Tim Verstynen and TA Fiona Horner.*
 
+Final Project - [Parietal Contributions to Object Recognition](Kramer_DSPN_S23_FinalProject.ipynb)
+
 | Homework Assignment | Link |
 | ------------------- | ---- |
 | 1: Hello world!     | [here](Exercise1.ipynb) |
