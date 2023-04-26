@@ -7,7 +7,7 @@
 
 | Homework Assignment | Link |
 | ------------------- | ---- |
-| 1: Hello world!     | [here](Homework1_HelloWorld.ipynb) |
+| 1: Hello world!     | [here](Exercise1.ipynb) |
 | 2: Coding habits and functions | [here](Exercise2.ipynb) |
 | 3: Data objects | [here](Exercise3.ipynb) |
 | 4: Data tables and manipulation | [here](Exercise4.ipynb) |
